@@ -76,3 +76,35 @@ public abstract strictfp class L2Char extends L2Object {
 }
 ]
 ```
+
+# Tablas
+| Nombre | Apellido | Documento |
+|--------|----------|-----------|
+| Janna  |  Chejne  | 1120364489|
+| Maria  | Perez    | 142397533 |
+
+
+# Citas
+Esto es un texto referente a una cita que pondremos debajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita.
+> ESto es otra cita.
+
+# Lineas DIvisoras
+Esto es un texto que será dividido 
+
+---
+Esto es otro texto que será dividido
+
+***
+Esto es otro texto que será dividido
+
+___
+
+# Saltos de lineas
+Esto es nuestro primer parrafo.
+
+Esto es nuestro segundo parrafo.
+
+Esto es nuestro tercero parrafo.
